@@ -1,0 +1,9 @@
+{
+  "name": "nextdraft",
+  "version": "1.0.0",
+  "description": "A Next.js + Draft.js spike.",
+  "main": "index.js",
+  "repository": "git@github.com:mysterycommand/nextdraft.git",
+  "author": "Matt Hayes <matt@mysterycommand.com> (http://mysterycommand.com/)",
+  "license": "MIT"
+}
