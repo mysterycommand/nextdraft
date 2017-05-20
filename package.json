@@ -9,5 +9,11 @@
   "private": true,
   "engines": {
     "node": "lts/boron"
+  },
+  "dependencies": {
+    "draft-js": "^0.10.1",
+    "next": "beta",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   }
 }
