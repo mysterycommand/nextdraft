@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:mysterycommand/nextdraft.git",
   "author": "Matt Hayes <matt@mysterycommand.com> (http://mysterycommand.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": "lts/boron"
+  }
 }
