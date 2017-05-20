@@ -10,6 +10,11 @@
   "engines": {
     "node": "lts/boron"
   },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "draft-js": "^0.10.1",
     "next": "beta",
