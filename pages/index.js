@@ -11,10 +11,13 @@ export default class TestEditor extends Component {
 
     render() {
         return (
-            <Editor
-                editorState={ this.state.editorState }
-                onChange={ this.onChange }
-            />
+            <div>
+                <h1>Test Editor</h1>
+                <Editor
+                    editorState={ this.state.editorState }
+                    onChange={ this.onChange }
+                />
+            </div>
         );
     }
 }
